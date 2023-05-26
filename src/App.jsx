@@ -2,7 +2,7 @@ import './App.css';
 import { Routes, Route } from 'react-router-dom';
 
 import IsPrivate from './components/IsPrivate';
-import IsAnon from './components/IsAnon';
+import IsAnon from './components/IsAnon/IsAnon';
 
 function App() {
 
